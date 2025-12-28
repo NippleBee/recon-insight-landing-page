@@ -2,7 +2,7 @@ const next = require('next')
 const fs = require('fs')
 const http = require('http')
 const socketPath = process.env.PORT
-const app = next({ dev: true })
+const app = next({ dev: false })
 const handle = app.getRequestHandler()
 
 app.prepare().then(() => {
