@@ -1,26 +1,26 @@
 export const IMAGES = [
 	{
 		src: '/profile.png',
-		alt: 'Profile'
+		alt: 'Valorant Player Profile and Rank Stats'
 	},
 	{
 		src: '/match-history.png',
-		alt: 'Match History'
+		alt: 'Valorant Match History Mobile View'
 	},
 	{
 		src: '/match-details-scoreboard.png',
-		alt: 'Match Details Scoreboard'
+		alt: 'Detailed Match Scoreboard Analysis'
 	},
 	{
 		src: '/match-details-combat.png',
-		alt: 'Match Details Combat'
+		alt: 'Combat Report and Round Details'
 	},
 	{
 		src: '/stats-1.png',
-		alt: 'Stats'
+		alt: 'Advanced Performance Analytics Charts'
 	},
 	{
 		src: '/stats-2.png',
-		alt: 'Stats'
+		alt: 'Weapon and Map Statistics'
 	}
 ]
